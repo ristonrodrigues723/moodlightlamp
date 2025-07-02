@@ -46,4 +46,4 @@ finally ![image](https://github.com/user-attachments/assets/091d8d70-ef0a-40eb-b
 assembly it nearly took 8 hra work remaoins on thwe external and base![image](https://github.com/user-attachments/assets/6ae452b5-8abc-4851-8827-e15de0ffb02c)
 
 
-timespent-6.5hrs
+timespent-8
