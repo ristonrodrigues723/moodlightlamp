@@ -1,0 +1,18 @@
+date-2/7/25 
+tasks
+-i reserched everything needed rthus doesnt include the reserch dome in last 2 days, the parts will be 4 interlocking part for main circular light as they work better 
+insted of a singular circle no 3d printer cn print athat apprantely
+
+-need to use a seperate diffusionmaterial for proper led diffusion but acrylic bending isnt possible and no one has translucent pla so  a 1 mm theick layer will havr to do for diffusion
+tbhus will be on toip of the base of circle the inner circle
+
+the base of mood light will be half semi circle with buttons switches lipo battersies chargng moduklkes esp32 and ther color and intensity light sensors, 
+thw mood light once on will adjust light and color
+based on color and intensity of color inthe room
+![image](https://github.com/user-attachments/assets/ee5eae80-8abf-48b4-bf6c-c195e0840054)
+![image](https://github.com/user-attachments/assets/837aa2da-701f-471d-88b0-92255e4bfa44)
+
+
+
+
+timespent-3 hrs
