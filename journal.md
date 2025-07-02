@@ -28,6 +28,8 @@ have to remobe the part-![image](https://github.com/user-attachments/assets/b571
 plan changed moved inner diffuser to partstudio 2, both willbe different and snug fit into each other, theres a placa a gap of two 2 slide a cm in this well slide the inner diffuser
 ![image](https://github.com/user-attachments/assets/b1a3b193-a2f9-4323-8699-642c383bfe38)
 2nd partsudio extrusion for snug fit
+ styuck again at shell![image](https://github.com/user-attachments/assets/dbc5d58a-528e-4665-b712-6e0627f26e50)
+
 
 
 timespent-3.5hrs
