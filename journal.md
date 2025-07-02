@@ -40,4 +40,7 @@ i tried slicing t off uswee extride with new sketches and the slice but no abvai
 
 
 finally works now will work on interlocking mechanism
-timespent-5hrs
+![image](https://github.com/user-attachments/assets/9fc6b0c2-2df6-458f-ab6a-bafa0e8cc006)
+modularity sucks bad realtime
+
+timespent-6.5hrs
