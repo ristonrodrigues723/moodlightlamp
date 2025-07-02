@@ -32,5 +32,5 @@ plan changed moved inner diffuser to partstudio 2, both willbe different and snu
 
 compelete changr how i work delklketed c alkl after not getting anywhere on diffuser going uoside down![image](https://github.com/user-attachments/assets/c1b2119c-84d5-4608-aa54-8db20f99f326)
 
-
-timespent-4.5hrs
+finally works now will work on interlocking mechanism
+timespent-5hrs
