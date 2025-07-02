@@ -43,5 +43,7 @@ finally works now will work on interlocking mechanism
 ![image](https://github.com/user-attachments/assets/9fc6b0c2-2df6-458f-ab6a-bafa0e8cc006)
 modularity sucks bad realtime
 finally ![image](https://github.com/user-attachments/assets/091d8d70-ef0a-40eb-b26a-386f8e445780)
+assembly it nearly took 8 hra work remaoins on thwe external and base![image](https://github.com/user-attachments/assets/6ae452b5-8abc-4851-8827-e15de0ffb02c)
+
 
 timespent-6.5hrs
