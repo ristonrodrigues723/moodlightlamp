@@ -30,6 +30,7 @@ plan changed moved inner diffuser to partstudio 2, both willbe different and snu
 2nd partsudio extrusion for snug fit
  styuck again at shell![image](https://github.com/user-attachments/assets/dbc5d58a-528e-4665-b712-6e0627f26e50)
 
+compelete changr how i work delklketed c alkl after not getting anywhere on diffuser going uoside down![image](https://github.com/user-attachments/assets/c1b2119c-84d5-4608-aa54-8db20f99f326)
 
 
-timespent-3.5hrs
+timespent-4.5hrs
