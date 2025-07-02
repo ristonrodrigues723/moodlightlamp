@@ -15,9 +15,12 @@ based on color and intensity of color inthe room
 
 finally fillet works changed fillet dimesnsion nor shelling and doing more work![image](https://github.com/user-attachments/assets/8d6eb7b5-8139-446d-a0f3-e21796011872)
 
+
 ![image](https://github.com/user-attachments/assets/bce19155-3667-44e5-bf87-9faada0e2d69)
 biggest problem so gfar the 3 circles dont have a 6 cm gap between them as need but somwhow only 3 cm if i try to make it 6 the radii of outer aND ine becomes 21 and 33 runing all
 ![image](https://github.com/user-attachments/assets/36dc0e9e-11bf-43d7-9a68-ed904ff63888)
 
 learnt the difference between radial and diamerter difference somehow it messed thinga up somehow both are different reverted to using radial thicknes again
-timespent-3 hrs
+![image](https://github.com/user-attachments/assets/631e4fa1-e47a-4cf8-bdbf-df2f28689787)
+
+timespent-3.5hrs
