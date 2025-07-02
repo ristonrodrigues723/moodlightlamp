@@ -13,6 +13,7 @@ based on color and intensity of color inthe room
 ![image](https://github.com/user-attachments/assets/837aa2da-701f-471d-88b0-92255e4bfa44)
 
 
+finally fillet works changed fillet dimesnsion nor shelling and doing more work![image](https://github.com/user-attachments/assets/8d6eb7b5-8139-446d-a0f3-e21796011872)
 
 
 timespent-3 hrs
