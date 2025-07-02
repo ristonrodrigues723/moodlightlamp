@@ -35,6 +35,8 @@ compelete changr how i work delklketed c alkl after not getting anywhere on diff
 
 
 ![image](https://github.com/user-attachments/assets/21e3d60c-dde3-4db4-a893-efac27ad4d55) didnt work as needed
+i tried slicing t off uswee extride with new sketches and the slice but no abvail im trying from sractch idf it succesds we are good to go![image](https://github.com/user-attachments/assets/334cc52c-a0cd-49a8-866f-7f6b679dc5f7)
+
 
 
 finally works now will work on interlocking mechanism
