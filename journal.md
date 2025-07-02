@@ -19,5 +19,5 @@ finally fillet works changed fillet dimesnsion nor shelling and doing more work!
 biggest problem so gfar the 3 circles dont have a 6 cm gap between them as need but somwhow only 3 cm if i try to make it 6 the radii of outer aND ine becomes 21 and 33 runing all
 ![image](https://github.com/user-attachments/assets/36dc0e9e-11bf-43d7-9a68-ed904ff63888)
 
-
+learnt the difference between radial and diamerter difference somehow it messed thinga up somehow both are different reverted to using radial thicknes again
 timespent-3 hrs
