@@ -22,5 +22,6 @@ biggest problem so gfar the 3 circles dont have a 6 cm gap between them as need 
 
 learnt the difference between radial and diamerter difference somehow it messed thinga up somehow both are different reverted to using radial thicknes again
 ![image](https://github.com/user-attachments/assets/631e4fa1-e47a-4cf8-bdbf-df2f28689787)
+added the led gap- so no glue needed![image](https://github.com/user-attachments/assets/e9cb9a71-2098-401a-a591-0739c0735230)
 
 timespent-3.5hrs
