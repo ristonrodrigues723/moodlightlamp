@@ -26,6 +26,8 @@ added the led gap- so no glue needed![image](https://github.com/user-attachments
 have to remobe the part-![image](https://github.com/user-attachments/assets/b571e9a9-998d-4a80-b927-223dfdb39ef1)
 
 plan changed moved inner diffuser to partstudio 2, both willbe different and snug fit into each other, theres a placa a gap of two 2 slide a cm in this well slide the inner diffuser
+![image](https://github.com/user-attachments/assets/b1a3b193-a2f9-4323-8699-642c383bfe38)
+2nd partsudio extrusion for snug fit
 
 
 timespent-3.5hrs
