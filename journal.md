@@ -23,5 +23,9 @@ biggest problem so gfar the 3 circles dont have a 6 cm gap between them as need 
 learnt the difference between radial and diamerter difference somehow it messed thinga up somehow both are different reverted to using radial thicknes again
 ![image](https://github.com/user-attachments/assets/631e4fa1-e47a-4cf8-bdbf-df2f28689787)
 added the led gap- so no glue needed![image](https://github.com/user-attachments/assets/e9cb9a71-2098-401a-a591-0739c0735230)
+have to remobe the part-![image](https://github.com/user-attachments/assets/b571e9a9-998d-4a80-b927-223dfdb39ef1)
+
+plan changed moved inner diffuser to partstudio 2, both willbe different and snug fit into each other, theres a placa a gap of two 2 slide a cm in this well slide the inner diffuser
+
 
 timespent-3.5hrs
