@@ -53,12 +53,21 @@ looks good![image](https://github.com/user-attachments/assets/5bba2f12-c0df-44e9
 timespent-8
 
 date 3/7/25
-task trying to create the semicircular bse but it sucks bigtime![image](https://github.com/user-attachments/assets/4a1bc008-4784-441d-97cc-83c4875c34cd)
+task -compeleted the right base fit in the right lamp snug fit into the base added necessary suports through trial and error
+trying to create the semicircular bse but it sucks bigtime![image](https://github.com/user-attachments/assets/4a1bc008-4784-441d-97cc-83c4875c34cd)
 using shell doesnt work.![image](https://github.com/user-attachments/assets/f4e22671-7456-4d74-bbc9-e9602b9ee432)
 
 finally but eill need to reases width due to tipping off issues-![image](https://github.com/user-attachments/assets/2b56f596-e71d-475a-a2f9-2638bc454a9f)
 ![image](https://github.com/user-attachments/assets/2f322ea3-3053-4c64-9fe0-ca69af8ff11c)
+![image](https://github.com/user-attachments/assets/59275538-e77c-48ad-bc47-0faf56fa96b4)
+![image](https://github.com/user-attachments/assets/5046241a-7c3e-4a3d-a1cc-8ad7b39ff3ed)
+editing bottom to properly balance the lamp
 
 
-time-2 hrs
+ proper solt![image](https://github.com/user-attachments/assets/f9496c8f-4de5-4078-8571-3f79fd5de920)
+
+ finally ![image](https://github.com/user-attachments/assets/1f16f172-0312-4eb9-9879-7680488252d3)
+
+
+time-4 hrs
 
