@@ -67,7 +67,8 @@ editing bottom to properly balance the lamp
  proper solt![image](https://github.com/user-attachments/assets/f9496c8f-4de5-4078-8571-3f79fd5de920)
 
  finally ![image](https://github.com/user-attachments/assets/1f16f172-0312-4eb9-9879-7680488252d3)
+moduler outer part done![image](https://github.com/user-attachments/assets/419aa142-29e4-4011-a638-e2dae4c67505)
 
 
-time-4 hrs
+time-6 hrs
 
