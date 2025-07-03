@@ -57,7 +57,8 @@ task trying to create the semicircular bse but it sucks bigtime![image](https://
 using shell doesnt work.![image](https://github.com/user-attachments/assets/f4e22671-7456-4d74-bbc9-e9602b9ee432)
 
 finally but eill need to reases width due to tipping off issues-![image](https://github.com/user-attachments/assets/2b56f596-e71d-475a-a2f9-2638bc454a9f)
+![image](https://github.com/user-attachments/assets/2f322ea3-3053-4c64-9fe0-ca69af8ff11c)
 
 
-time-.6 hrs
+time-2 hrs
 
