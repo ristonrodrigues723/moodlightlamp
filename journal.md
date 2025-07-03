@@ -50,3 +50,9 @@ looks good![image](https://github.com/user-attachments/assets/5bba2f12-c0df-44e9
 
 
 timespent-8
+
+date 3/7/25
+task trying to create the semicircular bse but it sucks bigtime![image](https://github.com/user-attachments/assets/4a1bc008-4784-441d-97cc-83c4875c34cd)
+
+time-.6 hrs
+
