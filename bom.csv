@@ -19,7 +19,7 @@
 "18","M3 x 6mm Brass Heat Set Threaded Round Insert Nuts (25 pcs)","RoboticsDNA","170.88","2.00","Price includes delivery.","https://roboticsdna.in/product/m3-x-6mm-brass-heat-set-threaded-round-insert-nut-25-pcs/"
 "19","Price Increase Contingency","-","427.20","5.00","",""
 "20","IRF520 MOSFET Driver Module","Robocraze","42.00","0.49","For \"soft power\" control of main circuit via ESP32. Heat sink needed for loads > 1A.","https://robocraze.com/products/keyes-mos-driving-module-for-boards-compatible-with-arduino"
-"21","Aluminium Heatsink 19mmx19mmx15mm Silver Tone","Robocraze","12.00","0.14","For MOSFET. Essential for closed enclosure, given ~1.56A LED current.","https://robocraze.com/products/aluminium-heatsink-19mmx19mmx15mm-silver-tone"
+"21","Aluminium Heatsink 19mmx19mmx15mm Silver Tone","Robocraze","12.00","0.14","For MOSFET. Requires heatsink in enclosed space.","https://robocraze.com/products/aluminium-heatsink-19mmx19mmx15mm-silver-tone"
 "22","Hook up Wire Packet (1 meter each, 5 colors)","Robocraze","49.00","0.57","",""
 "","Grand Total (INR)","","2775.45","","",""
 "","Grand Total (USD)","","","32.48","",""
