@@ -72,3 +72,10 @@ moduler outer part done![image](https://github.com/user-attachments/assets/419aa
 
 time-6 hrs
 
+date 4/7/25
+finished right 3d model![image](https://github.com/user-attachments/assets/a78c0fbd-4536-45cc-af02-3a2132cec491)
+dd more reserch bom got messed had to restructure entire thing
+serched ad played with codes, 
+time spernt 4 hrs
+
+
