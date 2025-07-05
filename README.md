@@ -1,11 +1,12 @@
 # moodlightlamp
 title: "moodlightlamp"
-author: "Maximus)"
+author: "Maximus"
 description: "intensity based ,esp color changing 3d printed modular lamp, uses light sensors to get current light room and adjust neopixel colors accordingly "
 created_at: "1/7/24"
 
-total hrs speant- 14+
-esp ws28b12 based mood light lamp that changes intensity color based on lifght intensity gret design good looks, this is a 3d printed designed ,lampo split in 5 pieces a semicircular base that holds the esp32 lipobattery intensity andf light sensors and controls, wherein the 4 parts form a circle thst interloch and contain the ws28bleds
+total hrs speant- 18 i guess or more
+esp ws28b12 based mood light lamp that changes intensity color based on lifght intensity gret design good looks, this is a 3d printed designed ,lamp split in 5 pieces a semicircular base that holds the esp32 lipobattery intensity andf light sensors and controls, wherein the 4 parts form a circle thst interloch and contain the ws28bleds
+this is a modulkar design cose was taken from multiple instructable and aurdio formas i didnt write the code just adjusted combined and mqade the necessary keuy assignments
 
 ![image](https://github.com/user-attachments/assets/d83b1a37-41bf-4efe-ae61-d65401684fd9)
 compeletely modular i guess thats the term i coc\nsists of 9 total pats that cn be assembled to get the light
