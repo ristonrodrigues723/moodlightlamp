@@ -7,9 +7,15 @@ created_at: "1/7/24"
 total hrs speant- 18+
 esp ws28b12 based mood light lamp that changes intensity ,color based on light outside , this is a 3d printed designed ,lamp split in 9 pieces a semicircular base that holds the esp32 ,lipobattery intensity and light sensors and controls, wherein the 4 parts form a circle thst interlock and contain the ws28b12 leds
 this is a modulkar design entiely designed by me, the schematic and pcb were enirely designed by me too, the code was taken from multiple instructable and aurdio formas i made some adjustmnts to code it was in doff fies ombined them to oned added coder for deep sleep but no ide if itll work , my focud was on design this ttime hope it passes
+model
 ![image](https://github.com/user-attachments/assets/bcf766f4-5bee-4ce8-ae39-e35570022209)
+schematic
+![image](https://github.com/user-attachments/assets/ea8c061c-abf7-4d50-9d21-5f0ccadb76d6)
 
-![image](https://github.com/user-attachments/assets/d83b1a37-41bf-4efe-ae61-d65401684fd9)
+pcb
+![image](https://github.com/user-attachments/assets/0bbb20d9-b39a-4deb-94a4-2a9e96e4c1fc)
+
+
 compeletely modular i guess thats the term i coc\nsists of 9 total pats that cn be assembled to get the light
 
 inner diffuser section that snaps together on outer part
