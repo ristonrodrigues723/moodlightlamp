@@ -81,6 +81,8 @@ time spernt 4 hrs
 date 5/7/25
 ![image](https://github.com/user-attachments/assets/7fafa541-60d2-4c64-82e5-459629203c5f)
 crested right schematic made changes now its a poroper schematic as needed![image](https://github.com/user-attachments/assets/5ca6772c-209c-40ac-93ba-3180599f8c98)
+so finishede schematic pcb andcode code isnt mine its from an instructable project i just made minor changes for mosfet deepsleep and pin assignments
+![image](https://github.com/user-attachments/assets/57df413e-efd9-4d60-8b24-03ce51804e05)
 
 timer spent 5 hrs
 
