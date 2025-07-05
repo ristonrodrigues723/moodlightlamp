@@ -5,7 +5,8 @@ insted of a singular circle no 3d printer cn print athat apprantely
 
 -need to use a seperate diffusionmaterial for proper led diffusion but acrylic bending isnt possible and no one has translucent pla so  a 1 mm theick layer will havr to do for diffusion
 tbhus will be on toip of the base of circle the inner circle
-
+main onshae link to check it
+https://cad.onshape.com/documents/24e9abbaab56b7240cb457e8/w/20b29b3eb999e24861c2671e/e/4f256c3f2ddf39ff50254116?renderMode=0&uiState=6868f45b66002c709b45569e
 the base of mood light will be half semi circle with buttons switches lipo battersies chargng moduklkes esp32 and ther color and intensity light sensors, 
 thw mood light once on will adjust light and color
 based on color and intensity of color inthe room
