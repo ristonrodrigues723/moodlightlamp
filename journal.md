@@ -83,6 +83,7 @@ date 5/7/25
 crested right schematic made changes now its a poroper schematic as needed![image](https://github.com/user-attachments/assets/5ca6772c-209c-40ac-93ba-3180599f8c98)
 so finishede schematic pcb andcode code isnt mine its from an instructable project i just made minor changes for mosfet deepsleep and pin assignments
 ![image](https://github.com/user-attachments/assets/57df413e-efd9-4d60-8b24-03ce51804e05)
+so com\bined all codes togethet made the coreect pinassignments as per my pin configuration , added just the deep sleep logic no idea if itll wor\k ata ll i confirmed the pcb and schematic multuple tilmes code im unsure
 
 timer spent 5 hrs
 
