@@ -78,4 +78,9 @@ dd more reserch bom got messed had to restructure entire thing
 serched ad played with codes, 
 time spernt 4 hrs
 
+date 5/7/25
+![image](https://github.com/user-attachments/assets/7fafa541-60d2-4c64-82e5-459629203c5f)
+timer spent 5 hrs
+
+
 
